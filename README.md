@@ -1,3 +1,3 @@
 # Personal Website & Portfolio
 
-Welcome to my personal website! It is made with Bootstrap's Freelancer portfolio theme. Access it at phoebeli23.github.io.
+Welcome to the repository of my personal website! I used Bootstrap's Freelancer portfolio theme as a template for the site. Access it via the "About" section on the right. 
